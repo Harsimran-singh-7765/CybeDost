@@ -1,7 +1,7 @@
 
 # 🛡️ Cyber Dost - AI Cyber Safety Companion
 
-**Cyber Dost** is an intelligent, interactive chatbot designed to educate students and internet users about Cyber Safety and Security. Built for the **Classes XI-XII Cyber Safety Competition**, it leverages Google's **Gemini 1.5 Flash** model to provide real-time, expert advice on topics ranging from password hygiene to preventing phishing attacks.
+**Cyber Dost** is an intelligent, interactive chatbot designed to educate students and internet users about Cyber Safety and Security. Built for the **Classes XI-XII Cyber Safety Competition**, it leverages Google's **Gemini 2.5 Flash Lite** model to provide real-time, expert advice on topics ranging from password hygiene to preventing phishing attacks.
 
 ---
 
@@ -11,17 +11,17 @@
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-* **⚡ Powered by Gemini 1.5 Flash:** Utilizes Google's latest lightweight model for lightning-fast responses.
-* **🧠 Expert Persona:** Engineered via advanced System Prompting to act as a professional Cyber Security Consultant, not a generic AI.
-* **🛡️ Comprehensive Coverage:** Trained to handle 25+ critical topics including Phishing, DDoS, SQL Injection, and Social Engineering.
-* **💬 Interactive UI:** A clean, chat-interface built with Streamlit that mimics modern messaging apps.
-* **🚫 Ethical Guardrails:** Programmed to refuse requests for malicious hacking instructions while pivoting to educational defense strategies.
+* **Powered by Gemini 2.5 Flash Lite:** Utilizes Google's latest lightweight model for lightning-fast responses.
+* **Expert Persona:** Engineered via advanced System Prompting to act as a professional Cyber Security Consultant, not a generic AI.
+* **Comprehensive Coverage:** Trained to handle 25+ critical topics including Phishing, DDoS, SQL Injection, and Social Engineering.
+* **Interactive UI:** A clean, chat-interface built with Streamlit that mimics modern messaging apps.
+* **Ethical Guardrails:** Programmed to refuse requests for malicious hacking instructions while pivoting to educational defense strategies.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Cyber-Dost/
@@ -33,7 +33,7 @@ Cyber-Dost/
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 Follow these steps to set up the project locally.
 
@@ -44,8 +44,8 @@ Ensure you have **Python** installed on your system.
 ### 2. Clone the Repository (or Download)
 
 ```bash
-git clone https://github.com/your-username/cyber-dost.git
-cd cyber-dost
+git clone https://github.com/Harsimran-singh-7765/CybeDost.git
+cd CyberDost
 
 ```
 
@@ -108,18 +108,5 @@ This project meets the competition criteria by:
 
 ---
 
-##  Contribution
 
-This is a solo project developed for the Cyber Safety Hackathon.
 
----
-
-### Bonus Step: Create a `requirements.txt`
-
-To make this look 100% professional, create a new file named `requirements.txt` in the same folder and paste these two lines inside it:
-
-```text
-streamlit
-google-generativeai
-
-```
