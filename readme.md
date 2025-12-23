@@ -44,8 +44,8 @@ Ensure you have **Python** installed on your system.
 ### 2. Clone the Repository (or Download)
 
 ```bash
-git clone https://github.com/your-username/cyber-dost.git
-cd cyber-dost
+git clone https://github.com/Harsimran-singh-7765/CybeDost.git
+cd CyberDost
 
 ```
 
@@ -124,3 +124,4 @@ google-generativeai
 
 
 ```
+
