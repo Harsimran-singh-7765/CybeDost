@@ -1,7 +1,7 @@
 
 # 🛡️ Cyber Dost - AI Cyber Safety Companion
 
-**Cyber Dost** is an intelligent, interactive chatbot designed to educate students and internet users about Cyber Safety and Security. Built for the **Classes XI-XII Cyber Safety Competition**, it leverages Google's **Gemini 1.5 Flash** model to provide real-time, expert advice on topics ranging from password hygiene to preventing phishing attacks.
+**Cyber Dost** is an intelligent, interactive chatbot designed to educate students and internet users about Cyber Safety and Security. Built for the **Classes XI-XII Cyber Safety Competition**, it leverages Google's **Gemini 2.5 Flash Lite** model to provide real-time, expert advice on topics ranging from password hygiene to preventing phishing attacks.
 
 ---
 
@@ -107,23 +107,6 @@ This project meets the competition criteria by:
 4. **Coverage:** Capable of answering all 25+ mandated cyber safety questions.
 
 ---
-
-##  Contribution
-
-This is a solo project developed for the Cyber Safety Hackathon.
-
----
-
-### Bonus Step: Create a `requirements.txt`
-
-To make this look 100% professional, create a new file named `requirements.txt` in the same folder and paste these two lines inside it:
-
-```text
-streamlit
-google-generativeai
-
-
-```
 
 
 
