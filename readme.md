@@ -13,11 +13,11 @@
 
 ##  Key Features
 
-* ** Powered by Gemini 2.5 Flash Lite:** Utilizes Google's latest lightweight model for lightning-fast responses.
-* ** Expert Persona:** Engineered via advanced System Prompting to act as a professional Cyber Security Consultant, not a generic AI.
-* ** Comprehensive Coverage:** Trained to handle 25+ critical topics including Phishing, DDoS, SQL Injection, and Social Engineering.
-* ** Interactive UI:** A clean, chat-interface built with Streamlit that mimics modern messaging apps.
-* ** Ethical Guardrails:** Programmed to refuse requests for malicious hacking instructions while pivoting to educational defense strategies.
+* **Powered by Gemini 2.5 Flash Lite:** Utilizes Google's latest lightweight model for lightning-fast responses.
+* **Expert Persona:** Engineered via advanced System Prompting to act as a professional Cyber Security Consultant, not a generic AI.
+* **Comprehensive Coverage:** Trained to handle 25+ critical topics including Phishing, DDoS, SQL Injection, and Social Engineering.
+* **Interactive UI:** A clean, chat-interface built with Streamlit that mimics modern messaging apps.
+* **Ethical Guardrails:** Programmed to refuse requests for malicious hacking instructions while pivoting to educational defense strategies.
 
 ---
 
@@ -124,5 +124,6 @@ google-generativeai
 
 
 ```
+
 
 
