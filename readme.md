@@ -13,7 +13,7 @@
 
 ## 🚀 Key Features
 
-* **⚡ Powered by Gemini 1.5 Flash:** Utilizes Google's latest lightweight model for lightning-fast responses.
+* **⚡ Powered by Gemini 2.5 Flash Lite:** Utilizes Google's latest lightweight model for lightning-fast responses.
 * **🧠 Expert Persona:** Engineered via advanced System Prompting to act as a professional Cyber Security Consultant, not a generic AI.
 * **🛡️ Comprehensive Coverage:** Trained to handle 25+ critical topics including Phishing, DDoS, SQL Injection, and Social Engineering.
 * **💬 Interactive UI:** A clean, chat-interface built with Streamlit that mimics modern messaging apps.
@@ -121,5 +121,6 @@ To make this look 100% professional, create a new file named `requirements.txt` 
 ```text
 streamlit
 google-generativeai
+
 
 ```
